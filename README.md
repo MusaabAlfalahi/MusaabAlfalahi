@@ -1,6 +1,6 @@
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 
-my name is **Musaab Alfalahi**, a software developer intern and software engineer studend at Applied Science Private University 🇯🇴. Intrest in **Backend Development** and **Competitive Programming**.
+my name is **Musaab Alfalahi**, a software developer intern and software engineer studend at **Applied Science Private University 🇯🇴**. Intrest in **Backend Development** and **Competitive Programming**.
 
 ---
 
